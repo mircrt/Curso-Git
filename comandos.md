@@ -139,6 +139,8 @@ git remote add origin https://github.com/mircrt/Curso-Git.git -> exempo isso mud
 # mandar para o repositorio remoto
 git branch -M main -> confirmar o branch 
 git push -u origin main -> enviar
+git push --force origin main
+
 
 # publicar ja tudo configurado
 git push
